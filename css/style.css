@@ -454,6 +454,9 @@ main,
   margin-top: 2em;
   color: #f9f9f9;
 }
+#comments .gt-container .gt-comments-null {
+  display: none;
+}
 #comments .gt-container .gt-btn {
   background-color: #303030 !important;
   border: 1px solid #f9f9f9 !important;
