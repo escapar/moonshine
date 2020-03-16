@@ -474,6 +474,7 @@ main,
 }
 #comments .gt-container .gt-comment-admin .gt-comment-content {
   background-color: #303030 !important;
+  text-shadow: none;
 }
 #comments .gt-container p {
   color: #aeb6bf !important;
