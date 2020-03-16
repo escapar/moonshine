@@ -458,6 +458,15 @@ main,
   margin-top: 2em;
   color: #f9f9f9;
 }
+.gt-container .gt-btn {
+  background-color: #303030 !important;
+}
+.gt-container .gt-btn-preview {
+  color: #aeb6bf !important;
+}
+.gt-container .gt-header-controls-tip {
+  color: #aeb6bf !important;
+}
 .intro {
   font-size: 0.8em;
 }
