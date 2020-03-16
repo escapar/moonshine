@@ -462,8 +462,18 @@ main,
   border: 1px solid #f9f9f9 !important;
 }
 #comments .gt-container .gt-avatar img {
-  background: #f9f9f9;
-  opacity: 0.6;
+  background: #f9f9f9 !important;
+  opacity: 0.6 !important;
+}
+#comments .gt-container .gt-container .gt-header-textarea {
+  background-color: #303030 !important;
+  color: #b2b2b2 !important;
+}
+#comments .gt-container .gt-comment-admin .gt-comment-content {
+  background-color: #303030 !important;
+}
+#comments .gt-container p .gt-comment-body {
+  color: #aeb6bf !important;
 }
 #comments .gt-container .gt-btn-preview {
   color: #aeb6bf !important;
