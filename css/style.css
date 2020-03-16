@@ -465,14 +465,14 @@ main,
   background: #f9f9f9 !important;
   opacity: 0.6 !important;
 }
-#comments .gt-container .gt-container .gt-header-textarea {
+#comments .gt-container .gt-header-textarea {
   background-color: #303030 !important;
   color: #b2b2b2 !important;
 }
 #comments .gt-container .gt-comment-admin .gt-comment-content {
   background-color: #303030 !important;
 }
-#comments .gt-container p .gt-comment-body {
+#comments .gt-container p {
   color: #aeb6bf !important;
 }
 #comments .gt-container .gt-btn-preview {
