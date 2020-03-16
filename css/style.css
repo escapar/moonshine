@@ -74,8 +74,12 @@ main,
     width: 80% !important;
   }
   .tip li {
-    padding: 0.2em !important;
+    padding: 1em !important;
   }
+}
+.tip ul li img {
+  width: 120px;
+  height: 120px;
 }
 .header > * {
   margin: 0;
