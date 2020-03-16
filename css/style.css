@@ -76,6 +76,9 @@ main,
   .tip li {
     padding: 1em !important;
   }
+  .header .title {
+    font-size: 2.2em !important;
+  }
 }
 .header > * {
   margin: 0;
