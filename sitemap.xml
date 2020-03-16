@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mns.re/about/index.html</loc>
+    
+    <lastmod>2020-03-16T18:02:05.229Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://mns.re/friends/index.html</loc>
     
     <lastmod>2020-03-16T17:57:05.550Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://mns.re/tag_archive/index.html</loc>
     
     <lastmod>2020-03-16T16:00:17.969Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://mns.re/about/index.html</loc>
-    
-    <lastmod>2020-03-15T18:13:28.768Z</lastmod>
     
   </url>
   
