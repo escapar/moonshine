@@ -102,7 +102,7 @@ main,
   color: #b2b2b2;
 }
 .header .motto {
-  font-family: Coustard !important;
+  font-family: UnifrakturMaguntia !important;
   color: #b2b2b2;
   font-size: 0.4em;
   font-weight: 500;
@@ -231,7 +231,7 @@ main,
 }
 .post .content body {
   font-size: 1em;
-  font-family: Georgia, "PingFang SC", "Microsoft Yahei", Helvetica, arial, serif;
+  font-family: Georgia, "PingFang SC", "Microsoft Yahei", "Helvetica", arial, serif;
   line-height: 1.5;
   background-color: #000;
   color: #516272;
