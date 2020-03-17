@@ -472,6 +472,9 @@ main,
   background-color: #303030 !important;
   color: #b2b2b2 !important;
 }
+#comments .gt-container .gt-popup {
+  background-color: #303030 !important;
+}
 #comments .gt-container .gt-comment-admin .gt-comment-content {
   background-color: #303030 !important;
   text-shadow: none;

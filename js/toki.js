@@ -83,35 +83,7 @@ $(document).ready(function(){
     //     }
     // }
     
-    $('.tip-btn').click(function(){
-        var flex= $('.tip-img').css('display') == 'flex'
-        console.log(flex)
-        if(flex){
-            $('.tip-img').css('display','none')
-        }else{
-            $('.tip-img').css('display','flex')
-        }
-        
-    })
-    
-    function selectText(element) {
-        if (document.body.createTextRange) {
-            var range = document.body.createTextRange();
-            range.moveToElementText(element);
-            range.select();
-        } else if (window.getSelection) {
-            var selection = window.getSelection();
-            var range = document.createRange();
-            range.selectNodeContents(element);
-            selection.removeAllRanges();
-            selection.addRange(range);
-        } else {
-            alert("none");
-        }
-    }
-    
-    $('pre').dblclick(function(e){
-        selectText(e.target)
-    })
+
+
 
 })
