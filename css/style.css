@@ -486,6 +486,9 @@ main,
   margin-top: 2em;
   color: #f9f9f9;
 }
+#comments .gt-container .gt-header-preview {
+  background-color: #303030 !important;
+}
 #comments .gt-container .gt-comments-null {
   display: none;
 }
