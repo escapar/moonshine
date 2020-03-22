@@ -507,6 +507,12 @@ main,
 #comments .gt-container .gt-popup {
   background-color: #303030 !important;
 }
+#comments .gt-container .gt-container .gt-comment-content {
+  background-color: #121212 !important;
+}
+#comments .gt-container .gt-comment-body {
+  color: #aeb6bf !important;
+}
 #comments .gt-container .gt-comment-admin .gt-comment-content {
   background-color: #303030 !important;
   text-shadow: none;
